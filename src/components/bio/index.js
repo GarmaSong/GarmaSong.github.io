@@ -14,7 +14,8 @@ function Bio({ author, language = 'ko' }) {
           <p className="title">
             안녕하세요.
             <br />
-            <ReactRotatingText items={bio.description} />
+            {bio.description}
+            {/* <ReactRotatingText items={bio.description} /> */}
             <br />
             {bio.role} <strong>{name}</strong>입니다.
             <br />
@@ -34,7 +35,8 @@ function Bio({ author, language = 'ko' }) {
             .<br />
           </p>
           <p className="description">
-            I'm a {bio.role} <ReactRotatingText items={bio.description} />
+            I'm a {bio.role} {bio.description}
+            {/* <ReactRotatingText items={bio.description} /> */}
             <br />
           </p>
           <div className="social-links">
