@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-template-js",
+    "path": "/posts/thought",
+    "result": {"pageContext":{"currentCategory":"thought","categories":["All","블로그","thought"],"edges":[{"node":{"id":"e289a9bb-2705-5653-8648-376fa611f910","excerpt":"2021년 프론트엔드 개발로 커리어를 시작하며 느꼈던 생각들을 정리해보고자 합니다. 프로젝트의 소개와 개발을 하면서 어떤 점들을 느꼈는지 공유하려고 합니다. 누군가에게는 이 글이 도움이 되길 바라면서 써봅니다. 1. 프로젝트 설명 신한카드 건강검진 예약 외 4가지 서비스에 대한 솔루션 제공 착한의사에서 제공되고 있는 검강검진 예약, 병원 약국 찾기, 증상 체크, 마음체크, 건강 인사이트를 솔루션 형식으로 제공하는 서비스 별도의 vpn 없이 신한카드 이용자 정보를 전달받아 이용했기 때문에 알고리즘을 활용한 이용자 정보 전달이 특징적임 처음부터 외부 미팅사와 지속적으로 회의를 하며 프로젝트를 경험해 볼 수 있었음 typescript, redux, react.js를 통해서 구현, s3와 cloudfront를 통한 배포 이루어졌음, git action을 통한 ci/cd자동화 이루어짐 삼성화재 BI 수정 및 유지보수 개편 삼성화재 BI 전면개편과 더불어 건강관리 서비스로 제공되고 있던 착한…","fields":{"slug":"/year-retrospective/"},"frontmatter":{"categories":"블로그 thought","title":"2022년 프론트엔드 개발 회고","date":"December 17, 2022"}},"next":null,"previous":null}]}},
+    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
